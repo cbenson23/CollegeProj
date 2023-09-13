@@ -35,6 +35,24 @@
         }
         .column-right div {
             border: 1px solid black;
-        text-align: center;}
- footer {
+        text-align: center;
+    }
+
+    footer {
       text-align: center;}
+
+      a:active{
+        color:orange;
+        font-weight: bold;
+        text-decoration: none;
+    font-size: 2rem;}
+
+        a:hover{
+            text-decoration: none;
+        color:orange;}
+        a:focus{
+            text-decoration: none;
+        color:orange;}
+        
+        *:focus {
+            outline: none;}
