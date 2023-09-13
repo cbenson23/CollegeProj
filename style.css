@@ -22,3 +22,17 @@
             font-size: 5rem;
             letter-spacing: .3rem;
         }
+
+        .column-right{
+          display: flex;
+          flex-direction:column ;
+        
+          }
+
+          .column-right a {
+            text-decoration: none;
+           
+        }
+        .column-right div {
+            border: 1px solid black;
+        text-align: center;}
