@@ -56,3 +56,7 @@
         
         *:focus {
             outline: none;}
+
+            .column-right a:hover
+            {background-color: orange;
+                color: white;}
