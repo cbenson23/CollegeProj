@@ -60,3 +60,6 @@
             .column-right a:hover
             {background-color: orange;
                 color: white;}
+
+.column-right div
+            {width:70%;}
